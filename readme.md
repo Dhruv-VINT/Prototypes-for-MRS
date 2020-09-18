@@ -1,2 +1,1 @@
-# Movie Recommendation System
-Project Name: "Not Decided"
+Protoype models for movie RS
